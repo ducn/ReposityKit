@@ -859,7 +859,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = "Duc Ngo";
+				ORGANIZATIONNAME = ReposityKit;
 			};
 			buildConfigurationList = 0FF38864177B78A200C31748 /* Build configuration list for PBXProject "ReposityKit" */;
 			compatibilityVersion = "Xcode 3.2";
