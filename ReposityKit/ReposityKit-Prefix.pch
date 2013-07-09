@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'ReposityKit' target in the 'ReposityKit' project
+//
+
+#ifdef __OBJC__
+    extern int ddLogLevel;
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <CoreData/NSManagedObject.h>
+    #import <CoreData/NSManagedObjectContext.h>
+    #import <CoreData/NSManagedObjectModel.h>
+    #import "DDLog.h"
+    #import "NSString+InflectionSupport.h"
+    #import "RPKNSArray+Enumerable.h"
+    #import "RPKReposityKit.h"
+#endif
+
